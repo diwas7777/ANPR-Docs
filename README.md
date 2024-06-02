@@ -9,6 +9,7 @@ pip install pillow
 pip install pandas
 pip install keras
 pip install streamlit
+pip install tensorflow
 ```
 
 To run the code, enter this command in terminal in root folder of project
